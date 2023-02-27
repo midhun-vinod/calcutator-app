@@ -28,6 +28,7 @@ body{
 .btn-primary{
     width: 20%;
     height: 40px;
+    font-size: 40px;
 }
 .row{
     margin-top: 15px;
